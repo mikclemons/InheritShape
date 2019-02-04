@@ -4,9 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        // Shape should have a method named printShape() which prints out the Shape's details (its color and whether or not it is filled).
-        //3. Create a class named Circle which inherits from Shape.
-        // Circle should have (1) property (in addition to the 2 it inherits from Shape): radius (a double).
+
         // Circle should have a constructor which sets all of its properties, using super() to set its inherited properties.
         // Circle should also have (2) methods: getArea() which returns the Circle's area, and getPerimeter() which returns the Circle's perimeter.
         // Circle should override Shape's printShape() method and should print out a Circle's color, whether or not it is filled, its perimeter and its area.
