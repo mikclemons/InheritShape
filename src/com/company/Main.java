@@ -3,9 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// Create a new IntelliJ project named InheritShape, and set up your project as a Git repository. Be sure to commit your code periodically as you work.
-        //2. Create a class named Shape. Shape should have (2) properties: color (a String) and filled (a boolean).
-        // Shape should also have a constructor which accepts arguments for both the color & filled properties.
+
         // Shape should have a method named printShape() which prints out the Shape's details (its color and whether or not it is filled).
         //3. Create a class named Circle which inherits from Shape.
         // Circle should have (1) property (in addition to the 2 it inherits from Shape): radius (a double).
